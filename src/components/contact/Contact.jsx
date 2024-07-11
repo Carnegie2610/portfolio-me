@@ -30,7 +30,7 @@ const Contact = () => {
             <article className="contact__option">
               <MdOutlineEmail className="contact__option__icon" />
               <h4>Email</h4>
-              <h5>myEmail@gmail.com</h5>
+              <h5> ronsard44djoumessi@gmail.gmail </h5>
               <a
                 href="mailto:ronsard44djoumessi@gmail.com"
                 target="_blank"
@@ -45,7 +45,7 @@ const Contact = () => {
               <h4>LinkedIn</h4>
               <h5>Profile</h5>
               <a
-                href="https://www.linkedin.com/in/brown-djomo-844b96164/"
+                href="https://www.linkedin.com/in/ronsard-carnegie"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -58,7 +58,7 @@ const Contact = () => {
               <h4>Whatsapp</h4>
               <h5>Direct message</h5>
               <a
-                href="https://web.whatsapp.com/send?phone=+237650241086"
+                href="https://wa.link/olgdo6"
                 target="_blank"
                 rel="noreferrer"
               >
