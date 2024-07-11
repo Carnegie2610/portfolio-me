@@ -1,6 +1,6 @@
 import React from "react";
 import "./experience.css";
-import ListExperiences from "./components/listExperiences";
+
 
 export const Experience = () => {
   return (
@@ -8,9 +8,7 @@ export const Experience = () => {
       <h5>What skills i have</h5>
       <h2>My Experience</h2>
       <div className="container experience__container">
-        <ListExperiences 
-        description = "html"
-        />
+      
       </div>
     </section>
   );

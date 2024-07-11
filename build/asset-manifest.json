@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/milkovic/static/css/main.2f3434fb.css",
+    "main.js": "/milkovic/static/js/main.f47193ed.js",
+    "static/media/avat4.JPG": "/milkovic/static/media/avat4.e939add5851c9e0a9a58.JPG",
+    "static/media/avat5.JPG": "/milkovic/static/media/avat5.3b9beaeeb72da4cb6b6d.JPG",
+    "static/media/avat3.JPG": "/milkovic/static/media/avat3.82b4694614bd122519e2.JPG",
+    "static/media/CV- Ronsard DJOUMESSI.pdf": "/milkovic/static/media/CV- Ronsard DJOUMESSI.1c679dc83678309c6ce4.pdf",
+    "static/media/client1.jpg": "/milkovic/static/media/client1.65a707a60cc9f4c7e189.jpg",
+    "static/media/changer.jpg": "/milkovic/static/media/changer.35dd4ecfe03a7d12c757.jpg",
+    "static/media/avat2.jpg": "/milkovic/static/media/avat2.090b086d0839182da3b9.jpg",
+    "static/media/img5.png": "/milkovic/static/media/img5.9cb8c305d5e59ba3d21f.png",
+    "static/media/img7.png": "/milkovic/static/media/img7.956b59a8ee62ec4228ae.png",
+    "static/media/img8.png": "/milkovic/static/media/img8.63773c701a3eb9d3ad41.png",
+    "index.html": "/milkovic/index.html",
+    "main.2f3434fb.css.map": "/milkovic/static/css/main.2f3434fb.css.map",
+    "main.f47193ed.js.map": "/milkovic/static/js/main.f47193ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f3434fb.css",
+    "static/js/main.f47193ed.js"
+  ]
+}
